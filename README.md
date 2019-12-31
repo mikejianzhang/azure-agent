@@ -8,7 +8,7 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure
 
 # How to build the image
 
-You can use the docker image from my docker hub https://hub.docker.com/r/mikejianzhang/zure-agent directly  
+You can use the docker image from my docker hub https://hub.docker.com/r/mikejianzhang/azure-agent directly  
 
 You can also buld the image by yourself using below command:
 
